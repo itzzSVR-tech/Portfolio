@@ -60,7 +60,7 @@ const AppShowcase = () => {
                                 Interactive Voice Assistant for Learning
                             </h2>
                             <p className="text-white-50 md:text-xl">
-                                An app built with NextJS 15, Vapi, & TailwindCSS
+                                An app built with NextJS 15, Vapi, Supabase & TailwindCSS
                                 for a fast, user-friendly experience.
                             </p>
                         </div>
