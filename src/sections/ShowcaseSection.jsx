@@ -74,7 +74,7 @@ const AppShowcase = () => {
                                     alt="Collaborative Editor Platform"
                                 />
                             </div>
-                            <h2>The LiveDocs Platform</h2>
+                            <h2>Vibestyle - ECommerce Platform</h2>
                         </div>
 
                         <div className="project" ref={yoomRef}>
