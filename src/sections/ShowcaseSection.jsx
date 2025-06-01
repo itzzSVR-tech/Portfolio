@@ -51,18 +51,17 @@ const AppShowcase = () => {
                         <div className="image-wrapper">
                             <img
                                 src="/images/project1.png"
-                                alt="Vibestyle Interface"
+                                alt="Converso Interface"
                             />
                         </div>
                         <div className="text-content">
                             <h2>
-                                E-Commerce Made Simple with a Powerful,
-                                User-Friendly Website called Vibestyle
+                                Converso - An AI LMS SaaS Platform with
+                                Interactive Voice Assistant for Learning
                             </h2>
                             <p className="text-white-50 md:text-xl">
-                                An app built with NextJS 15, Sanity, &
-                                TailwindCSS for a fast, user-friendly
-                                experience.
+                                An app built with NextJS 15, Vapi, & TailwindCSS
+                                for a fast, user-friendly experience.
                             </p>
                         </div>
                     </div>
