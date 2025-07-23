@@ -150,8 +150,8 @@ const expCards = [
         review: "Sarveshvarn brought creativity and technical expertise to the team, significantly improving our frontend performance. His work has been invaluable in delivering faster experiences.",
         imgPath: "/images/exp1.png",
         logoPath: "/images/C.png",
-        title: "Student Intern",
-        date: "February 2025 - Present",
+        title: "Software Intern",
+        date: "January 2025 - June 2025",
         responsibilities: [
             "Developed and maintained user-facing features for the Compassion AI website.",
             "Collaborated closely with UI/UX designers to ensure seamless user experiences.",
